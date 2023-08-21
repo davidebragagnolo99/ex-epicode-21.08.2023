@@ -66,5 +66,6 @@ createForm.addEventListener("submit", function (event) {
     }
   }
 
+  console.log(pets);
   createForm.reset();
 });
